@@ -16,9 +16,8 @@ I'd like to see if a bike is working
 
 ## Verbs ##
 
-- use (unused)
+- use, see (unused)
 - release
-- see (unused)
 - working
 
 &nbsp;
