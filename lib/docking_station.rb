@@ -1,2 +1,3 @@
 class DockingStation
+  return
 end
