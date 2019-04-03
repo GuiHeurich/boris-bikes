@@ -8,4 +8,8 @@ describe DockingStation do
     expect(bike).to be_working
   end
 
+  it 'docks' do
+    expect(subject).to respond_to(:dock).with(1).argument
+  end
+
   end
